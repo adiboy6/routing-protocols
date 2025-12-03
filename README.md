@@ -1,4 +1,4 @@
-## Routing Algorithms in this Project
+## Routing Protocols
 
 This repository centers on implementing and experimenting with two classic L2/L3 forwarding/routing algorithms:
 
